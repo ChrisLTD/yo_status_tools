@@ -116,7 +116,9 @@ class yo_status_tools {
 
             {exp:yo_status_tools:change_entry_status url_title="URL TITLE HERE" new_status="closed"}
 
-            {exp:yo_status_tools:change_entry_status entry_id="ENTRY ID HERE" new_status="open"}
+            {exp:yo_status_tools:delete_old_entries channel_name="CHANNEL_NAME" age_in_seconds="2628000" status="closed"}
+            
+            {exp:yo_status_tools:read_entry_status url_title="URL_TITLE_HERE"}
 
         <?php
         $buffer = ob_get_contents();
