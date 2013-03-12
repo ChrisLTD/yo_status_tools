@@ -2,7 +2,7 @@
 
 $plugin_info = array(
     'pi_name'       => 'YO Status Tools',
-    'pi_version'        => '0.1',
+    'pi_version'        => '0.01',
     'pi_author'     => 'Chris Johnson',
     'pi_author_url'     => 'http://chrisltd.com/',
     'pi_description'    => 'Can change the status of a channel entry, delete old entries by status, or read a status',
