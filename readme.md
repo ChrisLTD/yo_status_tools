@@ -1,5 +1,6 @@
 # YO Status Tools
-## Version .01
+### Version .01 | By [Chris Johnson](http://chrisltd.com) | https://github.com/ChrisLTD/yo_status_tools
+
 YO Status Tools will let you change the status of a channel entry, delete old entries by status, or read a status from a template.
 
 ## Changing Status
